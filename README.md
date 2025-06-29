@@ -1,6 +1,7 @@
- Medical Image Diagnosis with Deep Learning
-
- Project Overview
+# 🧠 Medical Image Diagnosis with Deep Learning
+> A deep learning-based medical image classification system using CNN and transfer learning to detect **Pneumonia** from chest X-ray images.
+---
+## 📌 Project Overview
 
 This project leverages deep learning and medical imaging to detect **Pneumonia** from chest X-ray scans. Using the **Chest X-ray Pneumonia dataset** from Kaggle, a **transfer learning-based CNN model** (MobileNetV2) is trained to classify images into `Normal` and `Pneumonia` categories.
 
@@ -25,3 +26,4 @@ This project leverages deep learning and medical imaging to detect **Pneumonia**
   - `Pneumonia` (infected patients)
 
 **Structure:**
+
