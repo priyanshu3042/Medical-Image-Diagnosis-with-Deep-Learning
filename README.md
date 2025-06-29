@@ -33,6 +33,18 @@ chest_xray/
 ├── val/
 └── test/
 
+##  Project Structure
+
+medical-image-diagnosis/
+├── chest_xray/                 # Dataset (train, val, test folders)
+├── medical_image_diagnosis.ipynb  # Colab Notebook
+├── outputs/                    # Model outputs, plots, Grad-CAM results
+├── app/                        # Optional Streamlit or Gradio app
+├── README.md                   # Project documentation
+├── LICENSE                     # License file (MIT)
+└── requirements.txt            # Dependencies (optional)
+
+
 
 ##  Model Architecture
 
