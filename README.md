@@ -33,17 +33,26 @@ chest_xray/
 ├── val/
 └── test/
 
-##  Project Structure
+## 🏃‍♂️ How to Run
 
-medical-image-diagnosis/
-├── chest_xray/                 # Dataset (train, val, test folders)
-├── medical_image_diagnosis.ipynb  # Colab Notebook
-├── outputs/                    # Model outputs, plots, Grad-CAM results
-├── app/                        # Optional Streamlit or Gradio app
-├── README.md                   # Project documentation
-├── LICENSE                     # License file (MIT)
-└── requirements.txt            # Dependencies (optional)
+Run this project on **Google Colab** in 3 easy steps:
 
+ **Download & Upload Dataset**
+- Download the Chest X-ray Pneumonia dataset from Kaggle:
+  https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+- Extract the `.zip` file on your PC
+- Upload the entire extracted folder `chest_xray/` to:
+  `/MyDrive/chest_xray/` in your Google Drive
+
+ **Open and Run Colab Notebook**
+- Open `medical_image_diagnosis.ipynb` in Google Colab
+- OR use this Colab link: *[Add link here if you publish]*
+
+ **Run the Notebook**
+- Mount Google Drive:
+  ```python
+  from google.colab import drive
+  drive.mount('/content/drive')
 
 
 ##  Model Architecture
