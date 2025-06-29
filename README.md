@@ -30,8 +30,15 @@ This project leverages deep learning and medical imaging to detect **Pneumonia**
 
 chest_xray/
 ├── train/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
 ├── val/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
 └── test/
+    ├── NORMAL/
+    └── PNEUMONIA/
+
 
 ##  Model Architecture
 
