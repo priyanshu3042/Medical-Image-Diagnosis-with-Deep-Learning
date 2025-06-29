@@ -35,13 +35,13 @@ chest_xray/
 
 ##  Technologies Used
 
-Python 3.8+
-TensorFlow / Keras
-NumPy, Pandas- 
-Matplotlib, Seaborn
-Google Colab
-MobileNetV2
- Grad-CAM
+- Python 3.8+
+- TensorFlow / Keras
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Google Colab
+- MobileNetV2
+- Grad-CAM
 
 
 ## How to Run
