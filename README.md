@@ -43,11 +43,13 @@ chest_xray/
 -  Metrics: Accuracy, Precision, Recall
 
 ## Results
-Metric	                 Score
-Accuracy	              94–97%
-Precision	               High
-Recall	              High (important in medical)
-Inference Time	       ~20ms/image
+
+| Metric    | Score     |
+|-----------|-----------|
+| Accuracy  | 94–97%    |
+| Precision | High      |
+| Recall    | High      |
+
 
 ## License
 This project is licensed under the MIT License.
