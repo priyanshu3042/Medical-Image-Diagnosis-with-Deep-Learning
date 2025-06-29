@@ -33,7 +33,7 @@ chest_xray/
 ├── val/
 └── test/
 
-## 🏃‍♂️ How to Run
+## How to Run
 
 Run this project on **Google Colab** in 3 easy steps:
 
