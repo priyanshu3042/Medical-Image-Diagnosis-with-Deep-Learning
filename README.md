@@ -33,6 +33,17 @@ chest_xray/
 ├── val/
 └── test/
 
+##  Technologies Used
+
+Python 3.8+
+TensorFlow / Keras
+NumPy, Pandas- 
+Matplotlib, Seaborn
+Google Colab
+MobileNetV2
+ Grad-CAM
+
+
 ## How to Run
 
 Run this project on **Google Colab** in 3 easy steps:
