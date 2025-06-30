@@ -1,0 +1,40 @@
+# Ignore Colab and Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore model weights and logs
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+*.log
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore outputs and saved images
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dataset folders (optional: useful for large files)
+data/
+chest_xray/
+*.zip
+
+# Ignore Google Colab temporary files
+drive/
